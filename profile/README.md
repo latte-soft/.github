@@ -11,7 +11,7 @@
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
     <p>Software Development & Open Source Organization</p>
-    <p>We're a team of talented programmers, designers, and reverse engineers. We develop our own products and services, including open source projects!<br>We develop and maintain multiple community projects, and welcome all contributers willing to help. &#128153</p>
+    <p>We're a team of talented programmers, designers, and reverse engineers. We develop our own products and services, including open source projects!<br>We develop and maintain multiple community projects, and welcome all contributors willing to help. &#128153</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
