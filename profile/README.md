@@ -28,7 +28,7 @@
         <a href="https://github.com/latte-soft/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/github-icon-white.svg#gh-dark-mode-only" />
         </a>
-        <a href="https://www.roblox.com/groups/10685936/#gh-dark-mode-only" target="_blank">
+        <a href="https://www.roblox.com/groups/10685936/Latte-Softworks#!/about/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/roblox-icon-white.svg#gh-dark-mode-only" />
         </a>
         <a href="mailto:support@latte.to" target="_blank">
