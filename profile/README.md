@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <!-- Latte banner -->
     <a href="https://latte.to/#gh-dark-mode-only" target="_blank">
         <img height="110" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-dark-theme.svg#gh-dark-mode-only" />
