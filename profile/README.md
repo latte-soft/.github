@@ -10,8 +10,8 @@
     <hr>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
-    <p>Software Development & Open Source Organization</p>
-    <p>We're a team of talented programmers, designers, and reverse engineers. We develop our own products and services, including open source projects!<br>We develop and maintain multiple community projects, and welcome all contributors willing to help. &#128153</p>
+    <p>Software Development Organization & Open-Source Software Community</p>
+    <p>We're a software development organization, and community of passionate developers and tech/open-source software enthusiasts! We work with programming, design, reverse engineering, and much more. &#128153</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
