@@ -31,7 +31,7 @@
         <a href="https://www.roblox.com/groups/10685936/Latte-Softworks#!/about/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/roblox-icon-white.svg#gh-dark-mode-only" />
         </a>
-        <a href="mailto:support@latte.to" target="_blank">
+        <a href="mailto:support@latte.to#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/email-icon-white.svg#gh-dark-mode-only" />
         </a>
         <!-- LIGHT MODE -->
