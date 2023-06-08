@@ -6,12 +6,9 @@
     <a href="https://latte.to/#gh-light-mode-only" target="_blank">
         <img height="110" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-light-theme.svg#gh-light-mode-only" />
     </a>
-    <!-- Horizontal Seperator -->
-    <hr>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
-    <p>Software Organization & Open-Source Development Community</p>
-    <p>We're a software development organization, and community of passionate developers and tech/open-source software enthusiasts! We also develop and maintain various projects & services, and welcome everyone to check out our community. ❤️</p>
+    <p>We're a software development organization and community of passionate developers and tech/open-source software enthusiasts! We also develop + maintain various projects & services, and welcome everyone to check out our community. ❤️</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
