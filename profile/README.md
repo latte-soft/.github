@@ -1,14 +1,15 @@
 <div align="left">
     <!-- Latte banner -->
     <a href="https://latte.to/#gh-dark-mode-only" target="_blank">
-        <img height="110" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-dark-theme.svg#gh-dark-mode-only" />
+        <img height="80" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-dark-theme.svg#gh-dark-mode-only" />
     </a>
     <a href="https://latte.to/#gh-light-mode-only" target="_blank">
-        <img height="110" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-light-theme.svg#gh-light-mode-only" />
+        <img height="80" src="https://github.com/latte-soft/.github/raw/master/assets/latte-banner/latte-banner-light-theme.svg#gh-light-mode-only" />
     </a>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
-    <p>We're a software development organization and community of passionate developers and tech/open-source software enthusiasts! We also develop + maintain various projects & services, and welcome everyone to check out our community. ❤️</p>
+    <p>Organization & Community focused on Software Development, Security Research, and Infrastructure</p>
+    <p>We're a community for many; game developers, tech enthusiasts, security researchers, you name it! As an organization, we also develop and maintain various open-source projects/services, which anyone can view, use, or contribute to.<br /><br />If you have any questions about us, feel free to <a href="https://latte.to/discord">join our community</a> and ask away!</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
@@ -16,7 +17,7 @@
         <a href="https://latte.to/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/website-icon-white.svg#gh-dark-mode-only" />
         </a>
-        <a href="https://latte.to/invite/#gh-dark-mode-only" target="_blank">
+        <a href="https://latte.to/discord/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/discord-clyde-icon-white.svg#gh-dark-mode-only" />
         </a>
         <a href="https://twitter.com/lattesoftworks/#gh-dark-mode-only" target="_blank">
@@ -35,7 +36,7 @@
         <a href="https://latte.to/#gh-light-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/light-mode/website-icon-black.svg#gh-light-mode-only" />
         </a>
-        <a href="https://latte.to/invite/#gh-light-mode-only" target="_blank">
+        <a href="https://latte.to/discord/#gh-light-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/light-mode/discord-clyde-icon-black.svg#gh-light-mode-only" />
         </a>
         <a href="https://twitter.com/lattesoftworks/#gh-light-mode-only" target="_blank">
