@@ -8,7 +8,7 @@
     </a>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
-    <p>Organization & Community focused on Software Development, Security Research, and Infrastructure</p>
+    <p>Organization & Community Focused on Software Development, Security Research, and Infrastructure</p>
     <p>We're a community for many; game developers, tech enthusiasts, security researchers, you name it! As an organization, we also develop and maintain various open-source projects/services, which anyone can view, use, or contribute to.<br /><br />If you have any questions about us, feel free to <a href="https://latte.to/discord">join our community</a> and ask away!</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
