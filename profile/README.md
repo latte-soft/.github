@@ -4,7 +4,7 @@
     <h2>Latte Softworks</h2>
     <p>Organization & Community Focused on Software Development, Security Research, and Infrastructure</p>
     <hr />
-    <p>Our organization and community are dedicated to software development, security research, and infrastructure. As an organization, we also develop and maintain various open-source projects and services anyone can view, use, or contribute to.<br /><br />If you have any questions, feel free to <a href="https://latte.to/discord">join our community</a>!</p>
+    <p>Our organization and community is dedicated to software development, security research, and infrastructure. As an organization, we also develop and maintain various open-source projects and services anyone can view, use, or contribute to.<br /><br />If you have any questions, feel free to <a href="https://latte.to/discord">join our community</a>!</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
