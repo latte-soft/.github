@@ -2,9 +2,9 @@
     <a href="https://latte.to"><img height="120" src="https://latte.to/assets/images/latte-logo-graphic.png" /></a>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
-    <p>Organization & Community Focused on Software Development, Security Research, and Infrastructure</p>
+    <p>Organization & Community Focused towards Software Development, Security Research, and Digital Infrastructure</p>
     <hr />
-    <p>Our organization and community is dedicated to software development, security research, and infrastructure. As an organization, we also develop and maintain various open-source projects and services anyone can view, use, or contribute to.<br /><br />If you have any questions, feel free to <a href="https://latte.to/discord">join our community</a>!</p>
+    <p>We're both an organization & community, dedicated towards general development and discussion on software, security research, and digital infrastructure. As an organization, we develop & maintain various open-source projects and services, publish information/findings, and even contribute to other projects in the OSS world! 🙂</p>
     <!-- Website/Social icons -->
     <!-- Made this hacky solution for social links in a horizontal array, I don't seem to have another choice -->
     <p>
