@@ -1,5 +1,5 @@
 <div align="left">
-    <a href="https://latte.to"><img height="120" src="https://latte.to/assets/images/latte-logo-graphic.png" /></a>
+    <a href="https://latte.to"><img src="https://latte.to/assets/images/latte-logo-graphic.png" width="120" height="120"></a>
     <!-- Title/Desc -->
     <h2>Latte Softworks</h2>
     <p>Organization & Community Focused Towards Software Development, Security Research, and Digital Infrastructure</p>
